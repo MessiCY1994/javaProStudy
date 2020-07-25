@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bf32737f-4c54-4bfc-bcaf-6ec43ca3b436" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mybatis_framework/src/main/java/com/messi/mybatisFramework/sqlsession/SqlSessionFactoryBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis_framework/src/main/java/com/messi/mybatisFramework/sqlsession/SqlSessionFactoryBuilder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mybatis_framework/target/classes/com/messi/mybatisFramework/config/Configuration.class" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis_framework/target/classes/com/messi/mybatisFramework/config/Configuration.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mybatis_framework/target/classes/com/messi/mybatisFramework/sqlsession/SqlSessionFactoryBuilder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mybatis_framework_test/target/classes/SqlMapConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis_framework_test/target/classes/SqlMapConfig.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mybatis_framework_test/target/classes/mapper/UserMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis_framework_test/target/classes/mapper/UserMapper.xml" afterDir="false" />
-    </list>
+    <list default="true" id="bf32737f-4c54-4bfc-bcaf-6ec43ca3b436" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -100,7 +92,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1595657060223</updated>
-      <workItem from="1595657061658" duration="5172000" />
+      <workItem from="1595657061658" duration="5424000" />
     </task>
     <servers />
   </component>
@@ -160,5 +152,31 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="97" y="147" key="new project wizard/0.0.1440.900@0.0.1440.900" timestamp="1595657332791" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/mybatis_framework/src/main/java/com/messi/mybatisFramework/sqlsession/SqlSessionFactoryBuilder.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/mybatis_framework/src/main/java/com/messi/mybatisFramework/config/XMLConfigParser.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/mybatis_framework/src/main/java/com/messi/mybatisFramework/config/XMLConfigParser.java</url>
+          <line>49</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/mybatis_framework/src/main/java/com/messi/mybatisFramework/config/XMLConfigParser.java</url>
+          <line>62</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
