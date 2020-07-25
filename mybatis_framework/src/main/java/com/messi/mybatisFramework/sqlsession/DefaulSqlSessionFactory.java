@@ -1,5 +1,7 @@
 package com.messi.mybatisFramework.sqlsession;
 
+import com.messi.mybatisFramework.config.Configuration;
+
 /**
  * @ClassName DefaulSqlSessionFactory
  * @Description: TODO
@@ -8,8 +10,15 @@ package com.messi.mybatisFramework.sqlsession;
  * @Version V1.0
  **/
 public class DefaulSqlSessionFactory implements SqlSessionFactory {
+
+    private Configuration configuration;
+
+    public DefaulSqlSessionFactory(Configuration configuration){
+        this.configuration = configuration;
+    }
+
     @Override
     public SqlSession openSqlSeesion() {
-        return null;
+        return new DefaulSqlSession(configuration);
     }
 }

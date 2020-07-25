@@ -23,7 +23,12 @@ public class Configuration {
     public DataSource getDataSource() {
         return dataSource;
     }
+
     public void setDataSource(DataSource dataSource) {
         this.dataSource = dataSource;
+    }
+
+    public  void addMappedStatement(String statementId,MappedStatement mappedStatement){
+        this.mappedStatements.put(statementId,mappedStatement);
     }
 }
