@@ -28,7 +28,7 @@ public class SqlSessionFactoryBuilder {
         // 进行mybatis语义解析（全局配置文件语义解析、映射文件语义解析）
         // XMLConfigParser---解析全局配置文件
         // XMLMapperParser---解析全局配置文件
-        XMLConfigParser xmlConfigParser = new XMLConfigParser();
+        XMLConfigParser xmlConfigParser = new XMLConfigParser(configuration);
         configuration = xmlConfigParser.parseConfiguration(document.getRootElement());
         return build();
     }
