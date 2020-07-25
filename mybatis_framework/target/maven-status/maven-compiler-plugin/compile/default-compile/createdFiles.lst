@@ -1,0 +1,5 @@
+com/messi/mybatisFramework/sqlsession/DefaulSqlSessionFactory.class
+com/messi/mybatisFramework/config/Configuration.class
+com/messi/mybatisFramework/sqlsession/SqlSessionFactory.class
+com/messi/mybatisFramework/sqlsession/SqlSession.class
+com/messi/mybatisFramework/sqlsession/SqlSessionFactoryBuilder.class
