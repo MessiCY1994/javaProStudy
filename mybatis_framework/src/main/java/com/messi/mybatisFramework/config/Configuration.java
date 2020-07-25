@@ -1,6 +1,11 @@
 package com.messi.mybatisFramework.config;
 
+import com.messi.mybatisFramework.model.MappedStatement;
+import lombok.Data;
+
 import javax.sql.DataSource;
+import java.util.HashMap;
+import java.util.Map;
 
 /**
  * @ClassName Configuration
@@ -9,8 +14,11 @@ import javax.sql.DataSource;
  * @Date 2020/7/25
  * @Version V1.0
  **/
+@Data
 public class Configuration {
     private DataSource dataSource;
+
+    private Map<String, MappedStatement> mappedStatements = new HashMap<>();
 
     public DataSource getDataSource() {
         return dataSource;

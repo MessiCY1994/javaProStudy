@@ -1,7 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bf32737f-4c54-4bfc-bcaf-6ec43ca3b436" name="Default Changelist" comment="" />
+    <list default="true" id="bf32737f-4c54-4bfc-bcaf-6ec43ca3b436" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/mybatis_framework/src/main/java/com/messi/mybatisFramework/model/BoundSql.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis_framework/src/main/java/com/messi/mybatisFramework/model/MappedStatement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis_framework/src/main/java/com/messi/mybatisFramework/model/ParameterMapping.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis_framework/src/main/java/com/messi/mybatisFramework/model/SqlSource.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis_framework/src/main/java/com/messi/mybatisFramework/utils/GenericTokenParser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis_framework/src/main/java/com/messi/mybatisFramework/utils/ParameterMappingTokenHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mybatis_framework/src/main/java/com/messi/mybatisFramework/utils/TokenHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mybatis_framework/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis_framework/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mybatis_framework/src/main/java/com/messi/mybatisFramework/config/Configuration.java" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis_framework/src/main/java/com/messi/mybatisFramework/config/Configuration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mybatis_framework/src/main/java/com/messi/mybatisFramework/config/XMLConfigParser.java" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis_framework/src/main/java/com/messi/mybatisFramework/config/XMLConfigParser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mybatis_framework/src/main/java/com/messi/mybatisFramework/config/XMLMapperParser.java" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis_framework/src/main/java/com/messi/mybatisFramework/config/XMLMapperParser.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,7 +43,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/mybatis_framework/src/main/java/com/messi/mybatisFramework/config" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/mybatis_framework/src/main/java/com/messi/mybatisFramework/utils" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -40,8 +53,8 @@
       <recent name="com.messi.mybatisFrameworkTest.sqlsession" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/mybatis_framework/src/main/java/com/messi/mybatisFramework/config" />
       <recent name="$PROJECT_DIR$/mybatis_framework/src/main/java/com/messi/mybatisFramework/utils" />
+      <recent name="$PROJECT_DIR$/mybatis_framework/src/main/java/com/messi/mybatisFramework/config" />
       <recent name="$PROJECT_DIR$/mybatis_framework_test/src/main/java/com/messi/mybatisFrameworkTest/test" />
       <recent name="$PROJECT_DIR$/mybatis_framework/src/main/java/com/messi/mybatisFramework/sqlsession" />
       <recent name="$PROJECT_DIR$/mybatis_framework_test/src/main/java/com/messi/mybatisFramework/dao" />
@@ -92,7 +105,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1595657060223</updated>
-      <workItem from="1595657061658" duration="5424000" />
+      <workItem from="1595657061658" duration="9113000" />
     </task>
     <servers />
   </component>
@@ -144,10 +157,10 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1398" height="303" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1595664022436" />
-    <state x="258" y="112" key="Maven.ArtifactSearchDialog" timestamp="1595657910872">
+    <state x="258" y="112" key="Maven.ArtifactSearchDialog" timestamp="1595672235757">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="258" y="112" key="Maven.ArtifactSearchDialog/0.0.1440.900@0.0.1440.900" timestamp="1595657910872" />
+    <state x="258" y="112" key="Maven.ArtifactSearchDialog/0.0.1440.900@0.0.1440.900" timestamp="1595672235757" />
     <state x="97" y="147" key="new project wizard" timestamp="1595657332791">
       <screen x="0" y="0" width="1440" height="900" />
     </state>

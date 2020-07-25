@@ -36,7 +36,7 @@ public class XMLConfigParser {
 		}
 	}
 
-	private void parseMapper(Element mapperEle) {
+	private void parseMapper(Element mapperEle)  {
 		String resource = mapperEle.attributeValue("resource");
 		InputStream inputStream = this.getClass().getClassLoader().getResourceAsStream(resource);
 		Document document = DocumentReader.createDocument(inputStream);
