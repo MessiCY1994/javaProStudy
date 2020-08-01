@@ -2,13 +2,33 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bf32737f-4c54-4bfc-bcaf-6ec43ca3b436" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/mybatis_framework/src/main/java/com/messi/mybatisFramework/sqlsession/DefaulSqlSession.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis_framework/src/main/java/com/messi/mybatisFramework/sqlsession/Executor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mybatis_framework/src/main/java/com/messi/mybatisFramework/sqlsession/SimpleExcutor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_framework/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_framework/src/main/java/com/messi/springFramework/beans/config/BeanDefination.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_framework/src/main/java/com/messi/springFramework/beans/config/ClassPathResource.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_framework/src/main/java/com/messi/springFramework/beans/config/Resoure.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_framework/src/main/java/com/messi/springFramework/beans/config/XmlBeanDefinationDocumentReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_framework/src/main/java/com/messi/springFramework/beans/config/XmlBeanDefinationReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_framework/src/main/java/com/messi/springFramework/beans/factory/AbstractBeanFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_framework/src/main/java/com/messi/springFramework/beans/factory/BeanFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_framework/src/main/java/com/messi/springFramework/beans/factory/DefaultListableBeanFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_framework/src/main/java/com/messi/springFramework/beans/utils/DocumentReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_framework_test/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_framework_test/src/main/java/com/messi/springFrameworkTest/po/Course.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_framework_test/src/main/java/com/messi/springFrameworkTest/po/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_framework_test/src/main/java/com/messi/springFrameworkTest/test/TestSpringFramework.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_framework_test/src/main/resources/beans.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mybatis_framework/src/main/java/com/messi/mybatisFramework/config/Configuration.java" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis_framework/src/main/java/com/messi/mybatisFramework/config/Configuration.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mybatis_framework/src/main/java/com/messi/mybatisFramework/config/XMLMapperParser.java" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis_framework/src/main/java/com/messi/mybatisFramework/config/XMLMapperParser.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mybatis_framework/src/main/java/com/messi/mybatisFramework/sqlsession/DefaulSqlSessionFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis_framework/src/main/java/com/messi/mybatisFramework/sqlsession/DefaulSqlSessionFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mybatis_framework/src/main/java/com/messi/mybatisFramework/sqlsession/SqlSessionFactoryBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis_framework/src/main/java/com/messi/mybatisFramework/sqlsession/SqlSessionFactoryBuilder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mybatis_framework/target/classes/com/messi/mybatisFramework/config/Configuration.class" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis_framework/target/classes/com/messi/mybatisFramework/config/Configuration.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mybatis_framework/target/classes/com/messi/mybatisFramework/config/XMLMapperParser.class" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis_framework/target/classes/com/messi/mybatisFramework/config/XMLMapperParser.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mybatis_framework/target/classes/com/messi/mybatisFramework/sqlsession/DefaulSqlSessionFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis_framework/target/classes/com/messi/mybatisFramework/sqlsession/DefaulSqlSessionFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mybatis_framework/target/classes/com/messi/mybatisFramework/sqlsession/SqlSessionFactoryBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis_framework/target/classes/com/messi/mybatisFramework/sqlsession/SqlSessionFactoryBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mybatis_framework/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis_framework/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mybatis_framework/target/mybatis_framework-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis_framework/target/mybatis_framework-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mybatis_framework_test/src/main/resources/mapper/UserMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis_framework_test/src/main/resources/mapper/UserMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mybatis_framework_test/target/classes/mapper/UserMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis_framework_test/target/classes/mapper/UserMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,22 +58,26 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/mybatis_framework/src/main/java/com/messi/mybatisFramework/utils" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/spring_framework_test/src/main/resources" />
     <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.proportion" value="0.1328125" />
+    <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RecentsManager">
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="com.messi.mybatisFramework.sqlsession" />
-      <recent name="com.messi.mybatisFrameworkTest.sqlsession" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/spring_framework_test/src/main/resources" />
+      <recent name="$PROJECT_DIR$/spring_framework_test/src/main/java/com/messi/springFrameworkTest/test" />
+      <recent name="$PROJECT_DIR$/spring_framework_test/src/main/java/com/messi/springFrameworkTest/po" />
       <recent name="$PROJECT_DIR$/mybatis_framework/src/main/java/com/messi/mybatisFramework/utils" />
       <recent name="$PROJECT_DIR$/mybatis_framework/src/main/java/com/messi/mybatisFramework/config" />
-      <recent name="$PROJECT_DIR$/mybatis_framework_test/src/main/java/com/messi/mybatisFrameworkTest/test" />
-      <recent name="$PROJECT_DIR$/mybatis_framework/src/main/java/com/messi/mybatisFramework/sqlsession" />
-      <recent name="$PROJECT_DIR$/mybatis_framework_test/src/main/java/com/messi/mybatisFramework/dao" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.messi.springFramework.beans.utils" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.messi.springFramework.beans.config" />
+      <recent name="com.messi.mybatisFramework.sqlsession" />
+      <recent name="com.messi.mybatisFrameworkTest.sqlsession" />
     </key>
   </component>
   <component name="RunManager">
@@ -101,7 +125,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1595657060223</updated>
-      <workItem from="1595657061658" duration="12259000" />
+      <workItem from="1595657061658" duration="12262000" />
+      <workItem from="1595857552049" duration="1126000" />
+      <workItem from="1596268990296" duration="6096000" />
     </task>
     <servers />
   </component>
@@ -109,58 +135,58 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="320" y="115" key="#Project_Structure" timestamp="1595657164059">
+    <state x="320" y="115" key="#Project_Structure" timestamp="1596270728062">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="320" y="115" key="#Project_Structure/0.0.1440.900@0.0.1440.900" timestamp="1595657164059" />
-    <state x="533" y="166" key="#com.intellij.ide.util.MemberChooser" timestamp="1595693455794">
+    <state x="320" y="115" key="#Project_Structure/0.0.1440.900@0.0.1440.900" timestamp="1596270728062" />
+    <state x="533" y="166" key="#com.intellij.ide.util.MemberChooser" timestamp="1596274101940">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="533" y="166" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900@0.0.1440.900" timestamp="1595693455794" />
+    <state x="533" y="166" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900@0.0.1440.900" timestamp="1596274101940" />
     <state width="457" height="466" key="DebuggerActiveHint" timestamp="1595664093966">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="457" height="466" key="DebuggerActiveHint/0.0.1440.900@0.0.1440.900" timestamp="1595664093966" />
-    <state width="1398" height="303" key="GridCell.Tab.0.bottom" timestamp="1595664022093">
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1596270811529">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="303" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1595664022093" />
-    <state width="1398" height="303" key="GridCell.Tab.0.center" timestamp="1595664022092">
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1596270811529" />
+    <state width="1398" height="245" key="GridCell.Tab.0.center" timestamp="1596270811527">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="303" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1595664022092" />
-    <state width="1398" height="303" key="GridCell.Tab.0.left" timestamp="1595664022091">
+    <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1596270811527" />
+    <state width="1398" height="245" key="GridCell.Tab.0.left" timestamp="1596270811526">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="303" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1595664022091" />
-    <state width="1398" height="303" key="GridCell.Tab.0.right" timestamp="1595664022092">
+    <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1596270811526" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right" timestamp="1596270811528">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="303" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1595664022092" />
-    <state width="1398" height="303" key="GridCell.Tab.1.bottom" timestamp="1595664022437">
+    <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1596270811528" />
+    <state width="1398" height="115" key="GridCell.Tab.1.bottom" timestamp="1595696142781">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="303" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1595664022437" />
-    <state width="1398" height="303" key="GridCell.Tab.1.center" timestamp="1595664022435">
+    <state width="1398" height="115" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1595696142781" />
+    <state width="1398" height="115" key="GridCell.Tab.1.center" timestamp="1595696142780">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="303" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1595664022435" />
-    <state width="1398" height="303" key="GridCell.Tab.1.left" timestamp="1595664022435">
+    <state width="1398" height="115" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1595696142780" />
+    <state width="1398" height="115" key="GridCell.Tab.1.left" timestamp="1595696142779">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="303" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1595664022435" />
-    <state width="1398" height="303" key="GridCell.Tab.1.right" timestamp="1595664022436">
+    <state width="1398" height="115" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1595696142779" />
+    <state width="1398" height="115" key="GridCell.Tab.1.right" timestamp="1595696142780">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="303" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1595664022436" />
+    <state width="1398" height="115" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1595696142780" />
     <state x="258" y="112" key="Maven.ArtifactSearchDialog" timestamp="1595672235757">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="258" y="112" key="Maven.ArtifactSearchDialog/0.0.1440.900@0.0.1440.900" timestamp="1595672235757" />
-    <state x="97" y="147" key="new project wizard" timestamp="1595657332791">
+    <state x="97" y="147" key="new project wizard" timestamp="1596269046058">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="97" y="147" key="new project wizard/0.0.1440.900@0.0.1440.900" timestamp="1595657332791" />
+    <state x="97" y="147" key="new project wizard/0.0.1440.900@0.0.1440.900" timestamp="1596269046058" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

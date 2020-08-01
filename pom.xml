@@ -11,6 +11,8 @@
     <modules>
         <module>mybatis_framework</module>
         <module>mybatis_framework_test</module>
+        <module>spring_framework</module>
+        <module>spring_framework_test</module>
     </modules>
 
 

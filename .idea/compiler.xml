@@ -6,8 +6,10 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="mybatis_framework" />
+        <module name="spring_framework" />
         <module name="mybatis_framework_test" />
+        <module name="mybatis_framework" />
+        <module name="spring_framework_test" />
       </profile>
     </annotationProcessing>
   </component>

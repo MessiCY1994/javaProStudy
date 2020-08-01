@@ -38,6 +38,6 @@ public class SqlSessionFactoryBuilder {
     }
     //构建SqlSessionFactory需要全局配置文件的信息，也就是configuration
     private   SqlSessionFactory build(){
-        return  new DefaulSqlSessionFactory();
+        return  new DefaulSqlSessionFactory(configuration);
     }
 }
