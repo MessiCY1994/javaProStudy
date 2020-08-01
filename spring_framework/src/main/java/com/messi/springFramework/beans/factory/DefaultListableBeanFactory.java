@@ -132,7 +132,7 @@ public class DefaultListableBeanFactory extends AbstractBeanFactory {
      * @param beanClassName
      * @param args
      */
-    private Object createBeanInstance(String beanClassName, Object args) {
-        return ReflectUtils.createObject(beanClassName,args);
+    private Object createBeanInstance(String beanClassName, Object... args) {
+        return  ReflectUtils.createObject(beanClassName, args);
     }
 }

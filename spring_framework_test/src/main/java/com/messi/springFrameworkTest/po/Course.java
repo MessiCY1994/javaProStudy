@@ -1,18 +1,20 @@
 package com.messi.springFrameworkTest.po;
 
-public class Course {
+import lombok.Data;
 
+
+public class Course {
 	private String name;
 
 	private Integer age;
-	
+
 	public String getName() {
 		return name;
 	}
 	public void setName(String name) {
 		this.name = name;
 	}
-	
+
 	public Integer getAge() {
 		return age;
 	}
@@ -22,5 +24,4 @@ public class Course {
 	public void init() {
 		System.out.println("我是对象初始化方法");
 	}
-	
 }

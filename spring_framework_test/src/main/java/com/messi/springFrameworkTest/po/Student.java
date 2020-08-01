@@ -1,18 +1,21 @@
 package com.messi.springFrameworkTest.po;
 
+import lombok.Data;
+
+
 public class Student {
 
 	private String name;
 
 	private Course course;
-	
+
 	public String getName() {
 		return name;
 	}
 	public void setName(String name) {
 		this.name = name;
 	}
-	
+
 	public Course getCourse() {
 		return course;
 	}
@@ -25,5 +28,4 @@ public class Student {
 	public void destroyMethod() {
 		System.out.println("销毁方法");
 	}
-	
 }
