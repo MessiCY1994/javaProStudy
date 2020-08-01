@@ -2,9 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bf32737f-4c54-4bfc-bcaf-6ec43ca3b436" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/spring_framework/src/main/java/com/messi/springFramework/beans/converter/IntegerTypeConverter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_framework/src/main/java/com/messi/springFramework/beans/converter/StringTypeConverter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_framework/src/main/java/com/messi/springFramework/beans/converter/TypeConverter.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/spring_framework/src/main/java/com/messi/springFramework/beans/factory/DefaultListableBeanFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring_framework/src/main/java/com/messi/springFramework/beans/factory/DefaultListableBeanFactory.java" afterDir="false" />
     </list>
@@ -138,7 +135,7 @@
       <updated>1595657060223</updated>
       <workItem from="1595657061658" duration="12262000" />
       <workItem from="1595857552049" duration="1126000" />
-      <workItem from="1596268990296" duration="11191000" />
+      <workItem from="1596268990296" duration="11362000" />
     </task>
     <servers />
   </component>
@@ -221,16 +218,6 @@
           <url>file://$PROJECT_DIR$/mybatis_framework/src/main/java/com/messi/mybatisFramework/config/XMLConfigParser.java</url>
           <line>62</line>
           <option name="timeStamp" value="7" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/spring_framework/src/main/java/com/messi/springFramework/beans/factory/DefaultListableBeanFactory.java</url>
-          <line>51</line>
-          <option name="timeStamp" value="8" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/spring_framework/src/main/java/com/messi/springFramework/beans/factory/DefaultListableBeanFactory.java</url>
-          <line>47</line>
-          <option name="timeStamp" value="9" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/spring_framework/src/main/java/com/messi/springFramework/beans/config/XmlBeanDefinationReader.java</url>
