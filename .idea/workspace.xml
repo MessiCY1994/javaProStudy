@@ -2,34 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bf32737f-4c54-4bfc-bcaf-6ec43ca3b436" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/spring_framework/src/main/java/com/messi/springFramework/beans/config/PropertyValue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_framework/src/main/java/com/messi/springFramework/beans/config/RuntimeBeanReference.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_framework/src/main/java/com/messi/springFramework/beans/config/TypedStringValue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring_framework/src/main/java/com/messi/springFramework/beans/utils/ReflectUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_framework/src/main/java/com/messi/springFramework/beans/converter/IntegerTypeConverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_framework/src/main/java/com/messi/springFramework/beans/converter/StringTypeConverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_framework/src/main/java/com/messi/springFramework/beans/converter/TypeConverter.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mybatis_framework/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis_framework/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mybatis_framework/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis_framework/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mybatis_framework/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis_framework/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mybatis_framework/target/mybatis_framework-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis_framework/target/mybatis_framework-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mybatis_framework_test/target/classes/SqlMapConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis_framework_test/target/classes/SqlMapConfig.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mybatis_framework_test/target/classes/mapper/UserMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis_framework_test/target/classes/mapper/UserMapper.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mybatis_framework_test/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis_framework_test/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mybatis_framework_test/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis_framework_test/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mybatis_framework_test/target/mybatis_framework_test-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis_framework_test/target/mybatis_framework_test-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring_framework/src/main/java/com/messi/springFramework/beans/config/BeanDefination.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring_framework/src/main/java/com/messi/springFramework/beans/config/BeanDefination.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring_framework/src/main/java/com/messi/springFramework/beans/config/ClassPathResource.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring_framework/src/main/java/com/messi/springFramework/beans/config/ClassPathResource.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring_framework/src/main/java/com/messi/springFramework/beans/config/XmlBeanDefinationDocumentReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring_framework/src/main/java/com/messi/springFramework/beans/config/XmlBeanDefinationDocumentParser.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring_framework/src/main/java/com/messi/springFramework/beans/config/XmlBeanDefinationReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring_framework/src/main/java/com/messi/springFramework/beans/config/XmlBeanDefinationReader.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/spring_framework/src/main/java/com/messi/springFramework/beans/factory/DefaultListableBeanFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring_framework/src/main/java/com/messi/springFramework/beans/factory/DefaultListableBeanFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring_framework/target/classes/com/messi/springFramework/beans/factory/DefaultListableBeanFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/spring_framework/target/classes/com/messi/springFramework/beans/factory/DefaultListableBeanFactory.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring_framework/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/spring_framework/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring_framework/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/spring_framework/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring_framework/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/spring_framework/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring_framework/target/spring_framework-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/spring_framework/target/spring_framework-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring_framework_test/src/main/resources/beans.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring_framework_test/src/main/resources/beans.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring_framework_test/target/classes/com/messi/springFrameworkTest/test/TestSpringFramework.class" beforeDir="false" afterPath="$PROJECT_DIR$/spring_framework_test/target/classes/com/messi/springFrameworkTest/test/TestSpringFramework.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring_framework_test/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/spring_framework_test/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring_framework_test/target/spring_framework_test-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/spring_framework_test/target/spring_framework_test-1.0-SNAPSHOT.jar" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,18 +36,18 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/spring_framework/src/main/java/com/messi/springFramework/beans/config" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/spring_framework/src/main/java/com/messi/springFramework/beans/converter" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.1328125" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/spring_framework/src/main/java/com/messi/springFramework/beans/converter" />
       <recent name="$PROJECT_DIR$/spring_framework/src/main/java/com/messi/springFramework/beans/config" />
       <recent name="$PROJECT_DIR$/spring_framework/src/main/java/com/messi/springFramework/beans/utils" />
       <recent name="$PROJECT_DIR$/spring_framework_test/src/main/resources" />
       <recent name="$PROJECT_DIR$/spring_framework_test/src/main/java/com/messi/springFrameworkTest/test" />
-      <recent name="$PROJECT_DIR$/spring_framework_test/src/main/java/com/messi/springFrameworkTest/po" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.messi.springFramework.beans.utils" />
@@ -161,7 +138,7 @@
       <updated>1595657060223</updated>
       <workItem from="1595657061658" duration="12262000" />
       <workItem from="1595857552049" duration="1126000" />
-      <workItem from="1596268990296" duration="9232000" />
+      <workItem from="1596268990296" duration="11191000" />
     </task>
     <servers />
   </component>
@@ -181,38 +158,38 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="457" height="466" key="DebuggerActiveHint/0.0.1440.900@0.0.1440.900" timestamp="1595664093966" />
-    <state width="1398" height="339" key="GridCell.Tab.0.bottom" timestamp="1596284925699">
+    <state width="1398" height="339" key="GridCell.Tab.0.bottom" timestamp="1596285238174">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="339" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1596284925699" />
-    <state width="1398" height="339" key="GridCell.Tab.0.center" timestamp="1596284925697">
+    <state width="1398" height="339" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1596285238174" />
+    <state width="1398" height="339" key="GridCell.Tab.0.center" timestamp="1596285238172">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="339" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1596284925697" />
-    <state width="1398" height="339" key="GridCell.Tab.0.left" timestamp="1596284925696">
+    <state width="1398" height="339" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1596285238172" />
+    <state width="1398" height="339" key="GridCell.Tab.0.left" timestamp="1596285238171">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="339" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1596284925696" />
-    <state width="1398" height="339" key="GridCell.Tab.0.right" timestamp="1596284925697">
+    <state width="1398" height="339" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1596285238171" />
+    <state width="1398" height="339" key="GridCell.Tab.0.right" timestamp="1596285238173">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="339" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1596284925697" />
-    <state width="1398" height="339" key="GridCell.Tab.1.bottom" timestamp="1596284902204">
+    <state width="1398" height="339" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1596285238173" />
+    <state width="1398" height="339" key="GridCell.Tab.1.bottom" timestamp="1596285238177">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="339" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1596284902204" />
-    <state width="1398" height="339" key="GridCell.Tab.1.center" timestamp="1596284902203">
+    <state width="1398" height="339" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1596285238177" />
+    <state width="1398" height="339" key="GridCell.Tab.1.center" timestamp="1596285238175">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="339" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1596284902203" />
-    <state width="1398" height="339" key="GridCell.Tab.1.left" timestamp="1596284902202">
+    <state width="1398" height="339" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1596285238175" />
+    <state width="1398" height="339" key="GridCell.Tab.1.left" timestamp="1596285238174">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="339" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1596284902202" />
-    <state width="1398" height="339" key="GridCell.Tab.1.right" timestamp="1596284902204">
+    <state width="1398" height="339" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1596285238174" />
+    <state width="1398" height="339" key="GridCell.Tab.1.right" timestamp="1596285238176">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="339" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1596284902204" />
+    <state width="1398" height="339" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1596285238176" />
     <state x="258" y="112" key="Maven.ArtifactSearchDialog" timestamp="1595672235757">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
@@ -247,12 +224,12 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/spring_framework/src/main/java/com/messi/springFramework/beans/factory/DefaultListableBeanFactory.java</url>
-          <line>46</line>
+          <line>51</line>
           <option name="timeStamp" value="8" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/spring_framework/src/main/java/com/messi/springFramework/beans/factory/DefaultListableBeanFactory.java</url>
-          <line>44</line>
+          <line>47</line>
           <option name="timeStamp" value="9" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
