@@ -1,0 +1,4 @@
+com/messi/mybatisFramework/po/User.class
+com/messi/mybatisFramework/dao/UserDaoImpl.class
+com/messi/mybatisFramework/dao/UserDao.class
+com/messi/mybatisFramework/test/UserDaoTest.class

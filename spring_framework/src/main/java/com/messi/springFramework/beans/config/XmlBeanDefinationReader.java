@@ -19,7 +19,7 @@ public class XmlBeanDefinationReader {
         //读取配置文件袋bean信息
         Document document = DocumentReader.createDocument(resoure.getInputStream());
         //解析document
-        XmlBeanDefinationDocumentReader xmlBeanDefinationDocumentReader = new XmlBeanDefinationDocumentReader(defaultListableBeanFactory);
-        xmlBeanDefinationDocumentReader.loadBeanDefinations(document.getRootElement());
+        XmlBeanDefinationDocumentParser xmlBeanDefinationDocumentParser = new XmlBeanDefinationDocumentParser(defaultListableBeanFactory);
+        xmlBeanDefinationDocumentParser.loadBeanDefinations(document.getRootElement());
     }
 }

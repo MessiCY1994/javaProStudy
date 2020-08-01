@@ -26,7 +26,7 @@ public class ClassPathResource implements Resoure{
         if(localtion==null||"".equals(localtion)){
             return false;
         }
-        if(localtion.startsWith("calsspath:")){
+        if(localtion.startsWith("classpath:")){
             this.location = localtion;
             return true;
         }
@@ -38,6 +38,7 @@ public class ClassPathResource implements Resoure{
         if (location==null||"".equals(location)){
             return null;
         }
+        location = location.replace("classpath:","");
         return this.getClass().getClassLoader().getResourceAsStream(location);
     }
 }

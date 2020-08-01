@@ -3,11 +3,14 @@ com/messi/mybatisFramework/sqlsession/DefaulSqlSessionFactory.class
 com/messi/mybatisFramework/config/Configuration.class
 com/messi/mybatisFramework/utils/ParameterMappingTokenHandler.class
 com/messi/mybatisFramework/sqlsession/SqlSessionFactoryBuilder.class
+com/messi/mybatisFramework/config/XMLMapperParser.class
 com/messi/mybatisFramework/model/MappedStatement.class
 com/messi/mybatisFramework/sqlsession/SqlSession.class
 com/messi/mybatisFramework/model/SqlSource.class
+com/messi/mybatisFramework/config/XMLConfigParser.class
 com/messi/mybatisFramework/utils/GenericTokenParser.class
 com/messi/mybatisFramework/utils/TokenHandler.class
+com/messi/mybatisFramework/utils/DocumentReader.class
 com/messi/mybatisFramework/model/BoundSql.class
 com/messi/mybatisFramework/sqlsession/SqlSessionFactory.class
 com/messi/mybatisFramework/sqlsession/Executor.class

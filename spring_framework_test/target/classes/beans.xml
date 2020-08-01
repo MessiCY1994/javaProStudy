@@ -1,5 +1,5 @@
 <beans>
-	<bean id="student" class="com.kkb.spring.po.Student">
+	<bean id="student" class="com.messi.springFrameworkTest.po.Student">
 		<!-- String类型 -->
 		<property name="name" value="zengkeyan"></property>
 		<!-- 引用类型 -->
@@ -7,7 +7,7 @@
 	</bean>
 
 	<!-- 该类有一个初始化方法 -->
-	<bean id="course" class="com.kkb.spring.po.Course"
+	<bean id="course" class="com.messi.springFrameworkTest.po.Course"
 		init-method="init">
 		<!-- String类型 -->
 		<property name="name" value="spring"></property>

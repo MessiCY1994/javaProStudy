@@ -29,7 +29,7 @@ public class DefaultListableBeanFactory extends AbstractBeanFactory {
         return beanDefinations;
     }
 
-    public void addBeanDefinations(String beanName,BeanDefination beanDefination) {
+    public void registerBeanDefinations(String beanName,BeanDefination beanDefination) {
        this.beanDefinations.put(beanName,beanDefination);
     }
 
