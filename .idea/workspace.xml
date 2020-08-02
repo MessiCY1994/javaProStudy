@@ -3,23 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="bf32737f-4c54-4bfc-bcaf-6ec43ca3b436" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mybatis_framework/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis_framework/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mybatis_framework/target/mybatis_framework-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis_framework/target/mybatis_framework-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mybatis_framework_test/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis_framework_test/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mybatis_framework_test/target/mybatis_framework_test-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis_framework_test/target/mybatis_framework_test-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring_framework/src/main/java/com/messi/springFramework/beans/factory/DefaultListableBeanFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring_framework/src/main/java/com/messi/springFramework/beans/factory/DefaultListableBeanFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring_framework/target/classes/com/messi/springFramework/beans/factory/DefaultListableBeanFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/spring_framework/target/classes/com/messi/springFramework/beans/factory/DefaultListableBeanFactory.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring_framework/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/spring_framework/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring_framework/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/spring_framework/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring_framework/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/spring_framework/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring_framework/target/spring_framework-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/spring_framework/target/spring_framework-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring_framework_test/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring_framework_test/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring_framework_test/src/main/java/com/messi/springFrameworkTest/po/Course.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring_framework_test/src/main/java/com/messi/springFrameworkTest/po/Course.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring_framework_test/src/main/java/com/messi/springFrameworkTest/po/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring_framework_test/src/main/java/com/messi/springFrameworkTest/po/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring_framework_test/target/classes/com/messi/springFrameworkTest/po/Course.class" beforeDir="false" afterPath="$PROJECT_DIR$/spring_framework_test/target/classes/com/messi/springFrameworkTest/po/Course.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring_framework_test/target/classes/com/messi/springFrameworkTest/po/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/spring_framework_test/target/classes/com/messi/springFrameworkTest/po/Student.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring_framework_test/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/spring_framework_test/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring_framework_test/target/spring_framework_test-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/spring_framework_test/target/spring_framework_test-1.0-SNAPSHOT.jar" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -151,7 +134,7 @@
       <updated>1595657060223</updated>
       <workItem from="1595657061658" duration="12262000" />
       <workItem from="1595857552049" duration="1126000" />
-      <workItem from="1596268990296" duration="13262000" />
+      <workItem from="1596268990296" duration="13518000" />
     </task>
     <servers />
   </component>
@@ -171,22 +154,22 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="472" height="466" key="DebuggerActiveHint/0.0.1440.900@0.0.1440.900" timestamp="1596288534296" />
-    <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1596290004686">
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1596290018766">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1596290004686" />
-    <state width="1398" height="245" key="GridCell.Tab.0.center" timestamp="1596290004685">
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1596290018766" />
+    <state width="1398" height="245" key="GridCell.Tab.0.center" timestamp="1596290018765">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1596290004685" />
-    <state width="1398" height="245" key="GridCell.Tab.0.left" timestamp="1596290004684">
+    <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1596290018765" />
+    <state width="1398" height="245" key="GridCell.Tab.0.left" timestamp="1596290018764">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1596290004684" />
-    <state width="1398" height="245" key="GridCell.Tab.0.right" timestamp="1596290004686">
+    <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1596290018764" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right" timestamp="1596290018766">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1596290004686" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1596290018766" />
     <state width="1398" height="376" key="GridCell.Tab.1.bottom" timestamp="1596289888193">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
